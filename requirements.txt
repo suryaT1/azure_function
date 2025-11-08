@@ -1,0 +1,4 @@
+dash==2.16.1
+flask==3.0.3
+azure-functions==1.19.0
+gunicorn
